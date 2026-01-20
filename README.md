@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am computer science and business systems engineer<br>👯 I’m looking for jobs and internship<br>🤝 software fullstack development<br>🌱 ai / ml and data engineering <br>💬 Quant and fintech<br>⚡avid learner 
-
+I’m a Computer Science and Business Systems undergraduate with a strong interest in building real-world, end-to-end solutions at the intersection of technology and finance. I enjoy working across the stack, from backend systems and databases to machine learning models and intuitive user interfaces.<br>
+Always curious, always building, and constantly learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-shanbhag-34b81b281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya45shanbhag@gmail.com) 
